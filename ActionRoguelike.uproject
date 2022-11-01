@@ -345,10 +345,6 @@
 			]
 		},
 		{
-			"Name": "SubversionSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "UObjectPlugin",
 			"Enabled": false
 		},
@@ -395,10 +391,6 @@
 		},
 		{
 			"Name": "InterchangeEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "GitSourceControl",
 			"Enabled": false
 		},
 		{
